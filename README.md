@@ -10,6 +10,6 @@
 
 # Libraries used:
 
-## . selenium
-## . os
-## . re
+* selenium
+* os
+* re
